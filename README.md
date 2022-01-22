@@ -8,7 +8,7 @@ Approching to Web Development Designer.
 
 | UE4 | Python | Django | HTML5 | CSS3 | JS | FL STUDIO |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/unrealengine.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/django.svg" /> |
+| <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/unrealengine.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/django.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" /> |
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
