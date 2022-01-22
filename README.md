@@ -22,9 +22,9 @@ Approching to Communiate Web Development Designer.
    
 ## 3. [ My skill abilities list ]
 
- - C++ Blueprint ■■■■▨▨
- - Python ■■▨▨▨▨
- - HTML5 ■■■▨▨▨
- - CSS3 ■■■▨▨▨
- - FL Studio ■■■■▨▨
- - Adobe Premiere Pro ■■■▨▨▨
+ - ■■■■▨▨    = C++ Blueprint
+ - ■■▨▨▨▨  = Python 3
+ - ■■■▨▨▨   = HTML5
+ - ■■■▨▨▨   = CSS3
+ - ■■■■▨▨    = FL Studio
+ - ■■■▨▨▨   = Adobe Premiere Pro 
