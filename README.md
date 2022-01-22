@@ -29,18 +29,3 @@ Approching to Communiate Web Development Designer.
  - ■■■■▨▨    = FL Studio
  - ■■■▨▨▨   = Adobe Premiere Pro 
 
-name: "📗 Classic template"
-description: |
-  A template mimicking GitHub visual identity.
-  This is also the default template.
-examples:
-  default: https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg
-index: 0
-supports:
-  - user
-  - organization
-formats:
-  - svg
-  - png
-  - jpeg
-  - json
