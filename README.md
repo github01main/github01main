@@ -1,7 +1,7 @@
 ## EAT-SLEEP-CODEIT-REPEAT.
 
 Hive-mind studio C.O.O.<br>
-Approching to Web Development Designer.
+Approching to Communiate Web Development Designer.
 
 ## 1. [ These software my Dev tools ]
 
