@@ -1,4 +1,8 @@
 ## Hellow There !! Great to see you again mate. my name is shiwook cho welcome to my GIT-HUB Space.
+
+Hive-mind studio C.O.O.
+Approching to Web Development Designer.
+
 ## ▼ These Softwares my Developement Tool ▼
 
 | UE4 | Python | Django |
