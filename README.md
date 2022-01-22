@@ -29,10 +29,18 @@ Approching to Communiate Web Development Designer.
  - ■■■■▨▨    = FL Studio
  - ■■■▨▨▨   = Adobe Premiere Pro 
 
-name: Example
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.classic.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, repositories
-  plugin_lines: yes
+name: "📗 Classic template"
+description: |
+  A template mimicking GitHub visual identity.
+  This is also the default template.
+examples:
+  default: https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg
+index: 0
+supports:
+  - user
+  - organization
+formats:
+  - svg
+  - png
+  - jpeg
+  - json
