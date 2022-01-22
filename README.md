@@ -1,7 +1,4 @@
-## EAT-SLEEP-CODEIT-REPEAT.
-
-Hive-mind studio C.O.O.<br>
-Approching to Communiate Web Development Designer.
+## HELLOW MATE !! WELCOME TO MY GIT-HUB SPACE :) EAT-SLEEP-CODEIT-REPEAT. Lol
 
 ## 1. [ These software my Dev tools ]
 
