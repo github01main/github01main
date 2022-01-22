@@ -6,8 +6,8 @@ Approching to Web Development Designer.
 
 ### ▼ These Softwares my Developement Tool ▼
 
-| UE4 | Python | Django |
-| ------ | ------ | ------ |
+| UE4 | Python | Django | HTML5 | CSS3 | JS | FL STUDIO |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/unrealengine.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/django.svg" /> |
 
 - 🔭 I’m currently working on ...
