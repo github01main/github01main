@@ -3,15 +3,6 @@
 Hive-mind studio C.O.O.<br>
 Approching to Web Development Designer.
 
-## My Skills Abilities.
-
- - C++ Blueprint ■■■■▨▨
- - Python ■■▨▨▨▨
- - HTML5 ■■■▨▨▨
- - CSS3 ■■■▨▨▨
- - FL Studio ■■■■▨▨
- - Adobe Premiere Pro ■■■▨▨▨
-
 ## These Softwares my Developement Tool.
 
 | UE4 | Python | Django | HTML5 | CSS3 | JS | VSC | VS |
