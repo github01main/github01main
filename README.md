@@ -2,11 +2,9 @@
 
 **github01main/github01main** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /><img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/django.svg" />
-
 | Plugin | README |
 | ------ | ------ |
-| <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/unrealengine.svg" /> |
+| <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/unrealengine.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/django.svg" /> |
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
