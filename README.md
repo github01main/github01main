@@ -12,8 +12,8 @@ Approching to Web Development Designer.
 
 
 -  [ Instagram Clone ] - Interactive simple Instagram Clone Project.
--  [ Machine learning : Tekken 7 ] - puts an image into the drag-and-drop space of the landing page and outputs the Tekken 7 character similar to the image.
--  [ Netflix Clone : rinminflix ] - An entertainment viewing website in the form of Netflix, a small haven on the Dark Path for the oppressed North Koreans.
+-  [ Machine learning : Tekken 7 ] - Similar Tekken 7 character output project via image drag and drop.
+-  [ Netflix Clone : rinminflix ] - Netflix of Dark Path for the oppressed North Korean people.
 -  
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
