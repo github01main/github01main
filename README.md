@@ -4,6 +4,7 @@
 Hive-mind studio C.O.O.<br>
 Approching to Web Development Designer.
 
+C++ Blueprint ■■■■▨▨ 》》》》》 Python ■■▨▨▨▨》》》》》》》》》》》HTML5 ■■■▨▨▨》》》》》》》》》》》》》CSS3 ■■■▨▨▨》》》》》》》》》》》》》》》》FL Studio ■■■■▨▨》》》》》》》》》》》》》》
 #### ▼ These Softwares my Developement Tool ▼
 
 | UE4 | Python | Django | HTML5 | CSS3 | JS | VSC | VS |
