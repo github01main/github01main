@@ -20,5 +20,5 @@ Approching to Communiate Web Development Designer.
    [ Machine learning : Tekken 7 ]: <https://github.com/github01main/Image_classification_SVC>
    [ Netflix Clone : rinminflix ]: <https://github.com/github01main/Sparta_Coding_Program_Netflix_Clone_Project>
    
-![Metrics](https://metrics.lecoq.io/username)
+![Metrics](https://metrics.lecoq.io/github01main)
 
