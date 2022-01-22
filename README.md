@@ -20,12 +20,5 @@ Approching to Communiate Web Development Designer.
    [ Machine learning : Tekken 7 ]: <https://github.com/github01main/Image_classification_SVC>
    [ Netflix Clone : rinminflix ]: <https://github.com/github01main/Sparta_Coding_Program_Netflix_Clone_Project>
    
-## 3. [ My skill abilities list ]
-
- - ■■■■▨▨    = C++ Blueprint
- - ■■▨▨▨▨  = Python 3
- - ■■■▨▨▨   = HTML5
- - ■■■▨▨▨   = CSS3
- - ■■■■▨▨    = FL Studio
- - ■■■▨▨▨   = Adobe Premiere Pro 
+![Metrics](https://metrics.lecoq.io/username)
 
