@@ -3,14 +3,14 @@
 Hive-mind studio C.O.O.<br>
 Approching to Web Development Designer.
 
-## These Softwares my Developement Tool.
+## These software my Dev tools.
 
 | UE4 | Python | Django | HTML5 | CSS3 | JS | VSC | VS |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/unrealengine.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/django.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudio.svg" /> |
 
 
-## Web Developped Project list.
+## Web dev project list.
 
 -  [ Instagram Clone ] - Interactive simple Instagram Clone Project.
 -  [ Machine learning : Tekken 7 ] - Similar Tekken 7 character output project via image drag and drop.
@@ -20,7 +20,7 @@ Approching to Web Development Designer.
    [ Machine learning : Tekken 7 ]: <https://github.com/github01main/Image_classification_SVC>
    [ Netflix Clone : rinminflix ]: <https://github.com/github01main/Sparta_Coding_Program_Netflix_Clone_Project>
    
-## My Skills Abilities.
+## My skill abilities list.
 
  - C++ Blueprint ■■■■▨▨
  - Python ■■▨▨▨▨
