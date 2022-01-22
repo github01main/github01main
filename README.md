@@ -11,8 +11,10 @@ Approching to Web Development Designer.
 | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/unrealengine.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/django.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudio.svg" /> |
 
 
--  [Instagram Clone] - Interactive simple Instagram Clone Project.
--  [Machine learning : Tekken 7 ] - A machine learning project that puts an image into the drag-and-drop space of the landing page and outputs the Tekken 7 character similar to the image.
+-  [ Instagram Clone ] - Interactive simple Instagram Clone Project.
+-  [ Machine learning : Tekken 7 ] - puts an image into the drag-and-drop space of the landing page and outputs the Tekken 7 character similar to the image.
+-  [ Netflix Clone : rinminflix ] - An entertainment viewing website in the form of Netflix, a small haven on the Dark Path for the oppressed North Koreans.
+-  
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -20,3 +22,7 @@ Approching to Web Development Designer.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+   [ Instagram Clone ]: <https://github.com/github01main/instaCloneTFT>
+   [ Machine learning : Tekken 7 ]: <https://github.com/github01main/Image_classification_SVC>
+   [ Netflix Clone : rinminflix ]: <https://github.com/github01main/Sparta_Coding_Program_Netflix_Clone_Project>
+   
