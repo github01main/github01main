@@ -28,3 +28,11 @@ Approching to Communiate Web Development Designer.
  - ■■■▨▨▨   = CSS3
  - ■■■■▨▨    = FL Studio
  - ■■■▨▨▨   = Adobe Premiere Pro 
+
+name: Example
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.classic.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: header, repositories
+  plugin_lines: yes
