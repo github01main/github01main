@@ -17,7 +17,7 @@ Approching to Communiate Web Development Designer.
 -  [ Netflix Clone : rinminflix ] - Netflix of Dark Path for the oppressed North Korean people.
 
    [ Instagram Clone ]: <https://github.com/github01main/instaCloneTFT>
-   [ Machine learning : Tekken 7 ]: <https://github.com/github01main/Image_classification_SVC>
+   [ Machine learning : Tekken 7 ]: <https://github.com/be1le/Image_classification_SVC>
    [ Netflix Clone : rinminflix ]: <https://github.com/github01main/Sparta_Coding_Program_Netflix_Clone_Project>
    
 ![Metrics](https://metrics.lecoq.io/github01main)
