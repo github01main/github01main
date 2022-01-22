@@ -20,3 +20,11 @@ Approching to Web Development Designer.
    [ Machine learning : Tekken 7 ]: <https://github.com/github01main/Image_classification_SVC>
    [ Netflix Clone : rinminflix ]: <https://github.com/github01main/Sparta_Coding_Program_Netflix_Clone_Project>
    
+## My Skills Abilities.
+
+ - C++ Blueprint ■■■■▨▨
+ - Python ■■▨▨▨▨
+ - HTML5 ■■■▨▨▨
+ - CSS3 ■■■▨▨▨
+ - FL Studio ■■■■▨▨
+ - Adobe Premiere Pro ■■■▨▨▨
