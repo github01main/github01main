@@ -1,4 +1,4 @@
-## HELLOW MATE !! WELCOME TO MY GIT-HUB SPACE :) EAT-SLEEP-CODEIT-REPEAT. Lol
+### EAT-SLEEP-CODEIT-REPEAT.
 
 ## 1. [ These software my Dev tools ]
 
