@@ -11,8 +11,8 @@
 
 -  [ Instagram Clone ] - Interactive simple Instagram Clone Project.
 -  [ Machine learning : Tekken 7 ] - Similar Tekken 7 character output project via image drag and drop.
--  [ ML Neural Style Transfer : issueFlix ]: - World Wide trended news from the 3d earth.
--  [ ML Neural STyle Transfer Oil Painting : ML Oil Painting Generator ] : - ML Oil paint by NST model.
+-  [ ML Neural Style Transfer : issueFlix ] - World Wide trended news from the 3d earth.
+-  [ ML Neural STyle Transfer Oil Painting : ML Oil Painting Generator ] - ML Oil paint by NST model.
 
    [ Instagram Clone ]: <https://github.com/github01main/instaCloneTFT>
    [ Machine learning : Tekken 7 ]: <https://github.com/be1le/Image_classification_SVC>
