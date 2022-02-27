@@ -12,12 +12,12 @@
 -  [ Instagram Clone ] - Interactive simple Instagram Clone Project. [ Instagram Clone Youtube Link + ]
 -  [ Machine learning : Tekken 7 ] - Similar Tekken 7 character output project via image drag and drop. [ Tekken 7 Youtube Link + ]
 -  [ ML Django Clone Project A.K.A Recommend System : issueFlix ]: - World Wide trended news from the 3d earth. [ issueFlix Link + ]
--  [ ML Neural Style Transfer Oil Painting : ML Oil Painting Generator ] - ML Oil paint by NST model. [ ML Oil Painting Generator Youtube Link + ]
+-  [ ML NST Oil Painting : ML Oil Painting Generator ] - ML Oil paint by NST model. [ ML Oil Painting Generator Youtube Link + ]
 
    [ Instagram Clone ]: <https://github.com/github01main/instaCloneTFT>
    [ Machine learning : Tekken 7 ]: <https://github.com/be1le/Image_classification_SVC>
    [ ML Django Clone Project A.K.A Recommend System : issueFlix ]: <https://github.com/godchoi96/issueFlix>
-   [ ML Neural Style Transfer Oil Painting : ML Oil Painting Generator ]: <https://github.com/github01main/ML_Oil_Painting_Generator>
+   [ ML NST Oil Painting : ML Oil Painting Generator ]: <https://github.com/github01main/ML_Oil_Painting_Generator>
    
    [ Instagram Clone Youtube Link + ]: < https://youtu.be/uh5mh7eSi_4 >
    [ Tekken 7 Youtube Link + ]: < https://youtu.be/Fbh8Y2Z-_dg >
