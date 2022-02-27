@@ -11,7 +11,7 @@
 
 -  [ Instagram Clone ] - Interactive simple Instagram Clone Project.
 -  [ Machine learning : Tekken 7 ] - Similar Tekken 7 character output project via image drag and drop.
--  [ Netflix Clone : rinminflix ] - Netflix of Dark Path for the oppressed North Korean people.
+-  [ ML Neural Style Transfer : issueFlix ]: - World Wide trended news from the 3d earth.
 
    [ Instagram Clone ]: <https://github.com/github01main/instaCloneTFT>
    [ Machine learning : Tekken 7 ]: <https://github.com/be1le/Image_classification_SVC>
