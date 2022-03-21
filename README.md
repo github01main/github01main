@@ -1,11 +1,11 @@
 # EAT-SLEEP-CODEIT-REPEAT.
 
 ## 1. [ These software my Dev tools ]
+![giphy](https://user-images.githubusercontent.com/96563625/159277146-400916e6-e61e-43bc-ab26-0841754f04e9.gif)
 
 | UE4 | Python | Django | HTML5 | CSS3 | JS | VSC | VS |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/unrealengine.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/django.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudio.svg" /> |
-
 
 ## 2. [ Web dev project list ]
 
