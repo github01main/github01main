@@ -1,4 +1,8 @@
-![giphy](https://user-images.githubusercontent.com/96563625/159277146-400916e6-e61e-43bc-ab26-0841754f04e9.gif)
+```python
+{
+  print("Hello World!");
+}
+```
 ## 1. [ These software my Dev tools ]
 | UE4 | Python | Django | HTML5 | CSS3 | JS | VSC | VS |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -22,9 +26,3 @@
    [ ML Oil Painting Generator Youtube Link + ]: <  >
   
 ![Metrics](https://metrics.lecoq.io/github01main?template=classic&isocalendar=1&languages=1&people=1&lines=1&introduction=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&introduction.title=true&config.timezone=Asia%2FSeoul&config.display=large)
-
-
-```python
-  print("Hello World!");
-}
-```
