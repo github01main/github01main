@@ -4,7 +4,7 @@
 }
 ```
 ## 1. [ These software my Dev tools ]
-| UE4 | Python | Django | HTML5 | SASS | JS | VSC | VS | Blender | PsShell | Webpack |
+| UE4 | Python | Django | HTML5 | SASS | JS | VSC | VS | Blender | PsShell | W-pack |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/unrealengine.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/django.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sass.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudio.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/blender.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/powershell.svg" /> | <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/webpack.svg" /> |
 
