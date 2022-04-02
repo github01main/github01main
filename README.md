@@ -7,7 +7,7 @@
 ```
 
 ![Indie Game Director and Design and Development](https://github.com/github01main/hive-mind-studio/blob/main/images/github01main_banner_black.png)
-### shiwook jo 
+# shiwook jo 
 #### Indie Game Director and Design and Development
 I'm shiwook jo from south korea, and i do content on Design an Development. I really enjoy learning languages and frameworks like Django and Javascript, as well as work in Hive-mind studio Indie game dev. I also enjoy wireframing, ui, ux and design in general.
 
