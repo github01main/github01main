@@ -6,12 +6,11 @@ I'm shiwook jo from south korea, and i do content on Design an Development. I re
 
 Skills: Python / Django / JS / HTML5 / SCSS / Powershell / Webpack 
 
-- 🔭 I’m currently working on this page. 
-
+- 🔭 always your backup by your side.
 
 ```python
 {
-  print("Hello Disney World!");
+  print("Delightful");
 }
 ```
 ## 1. [ These software my Dev tools ]
