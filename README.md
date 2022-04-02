@@ -1,8 +1,13 @@
-### Hi there 
+### Hi there 👋, shiwook jo
+#### Indie Game Director and Design and Development
+![Indie Game Director and Design and Development](https://github.com/github01main/hive-mind-studio/blob/main/images/github01main_banner.png)
 
-I'm shiwook jo from south korea, and i do content on Design an Development. I really enjoy learning languages and frameworks like Django and Javascript, as well as work in Hive-mind studio Indie game dev. I also enjoy wireframing, ui, ux and design in general. You can check out my linked In https://www.linkedin.com/in/shiwook-cho-7281a1199/
+I'm shiwook jo from south korea, and i do content on Design an Development. I really enjoy learning languages and frameworks like Django and Javascript, as well as work in Hive-mind studio Indie game dev. I also enjoy wireframing, ui, ux and design in general.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=github01main)](https://github.com/anuraghazra/github-readme-stats)
+Skills: Python / Django / JS / HTML5 / SCSS / Powershell / Webpack 
+
+- 🔭 I’m currently working on this page. 
+
 
 ```python
 {
