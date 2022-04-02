@@ -1,5 +1,7 @@
 ### Hi there 
 
+I'm shiwook jo from south korea, and i do content on Design an Development. I really enjoy learning languages and frameworks like Django and Javascript, as well as work in Hive-mind studio Indie game dev. I also enjoy wireframing, ui, ux and design in general. You can check out my linked In https://www.linkedin.com/in/shiwook-cho-7281a1199/
+
 ```python
 {
   print("Hello Disney World!");
