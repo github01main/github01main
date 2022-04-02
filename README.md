@@ -1,6 +1,3 @@
-### Hi there 👋, shiwook jo
-#### Indie Game Director and Design and Development
-
 - 🔭 always your backup by your side.
 
 ```python
@@ -10,7 +7,8 @@
 ```
 
 ![Indie Game Director and Design and Development](https://github.com/github01main/hive-mind-studio/blob/main/images/github01main_banner_black.png)
-
+### shiwook jo 
+#### Indie Game Director and Design and Development
 I'm shiwook jo from south korea, and i do content on Design an Development. I really enjoy learning languages and frameworks like Django and Javascript, as well as work in Hive-mind studio Indie game dev. I also enjoy wireframing, ui, ux and design in general.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github01main)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shiwook-cho-7281a1199/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shiwookcho/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCsnYIPC1TirIe8EToeWF0Fg) 
