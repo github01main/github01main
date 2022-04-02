@@ -1,5 +1,14 @@
 ### Hi there 👋, shiwook jo
 #### Indie Game Director and Design and Development
+
+- 🔭 always your backup by your side.
+
+```python
+{
+  print("Delightful");
+}
+```
+
 ![Indie Game Director and Design and Development](https://github.com/github01main/hive-mind-studio/blob/main/images/github01main_banner_black.png)
 
 I'm shiwook jo from south korea, and i do content on Design an Development. I really enjoy learning languages and frameworks like Django and Javascript, as well as work in Hive-mind studio Indie game dev. I also enjoy wireframing, ui, ux and design in general.
@@ -10,14 +19,6 @@ Skills:
 | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/unrealengine.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/django.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sass.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudio.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/blender.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/powershell.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/webpack.svg" /> | <img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/microsoftexcel.svg" /> |
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github01main)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shiwookcho/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shiwookcho/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/shiwookcho)  
-
-- 🔭 always your backup by your side.
-
-```python
-{
-  print("Delightful");
-}
-```
 
 ## 2. [ Web dev project list ]
 
