@@ -13,6 +13,9 @@
 
 I'm shiwook jo from south korea, and i do content on Design an Development. I really enjoy learning languages and frameworks like Django and Javascript, as well as work in Hive-mind studio Indie game dev. I also enjoy wireframing, ui, ux and design in general.
 
+## Skills and Experience
+* react
+* 
 Skills:
 | UE4 | Python | Django | HTML5 | SASS | JS | VSC | VS | Blender | PsShell | 웹팩 | Excel |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
