@@ -15,15 +15,12 @@ I'm shiwook jo from south korea, and i do content on Design an Development. I re
 <a href="https://www.youtube.com/watch?v=uh5mh7eSi_4&feature=youtu.be
 " target="_blank"><img src="https://i9.ytimg.com/vi_webp/uh5mh7eSi_4/mqdefault.webp?v=61d3c67b&sqp=CMzVoZIG&rs=AOn4CLDDv6Xp79fCgFGf8hxEydD3Yi6CKg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
 <a href="https://www.youtube.com/watch?v=uh5mh7eSi_4&feature=youtu.be
 " target="_blank"><img src="https://i9.ytimg.com/vi_webp/uh5mh7eSi_4/mqdefault.webp?v=61d3c67b&sqp=CMzVoZIG&rs=AOn4CLDDv6Xp79fCgFGf8hxEydD3Yi6CKg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
 <a href="https://www.youtube.com/watch?v=uh5mh7eSi_4&feature=youtu.be
 " target="_blank"><img src="https://i9.ytimg.com/vi_webp/uh5mh7eSi_4/mqdefault.webp?v=61d3c67b&sqp=CMzVoZIG&rs=AOn4CLDDv6Xp79fCgFGf8hxEydD3Yi6CKg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
 <a href="https://www.youtube.com/watch?v=uh5mh7eSi_4&feature=youtu.be
 " target="_blank"><img src="https://i9.ytimg.com/vi_webp/uh5mh7eSi_4/mqdefault.webp?v=61d3c67b&sqp=CMzVoZIG&rs=AOn4CLDDv6Xp79fCgFGf8hxEydD3Yi6CKg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
