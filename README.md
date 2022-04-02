@@ -14,16 +14,16 @@ I'm shiwook jo from south korea, and i do content on Design an Development. I re
 
 <a href="https://www.youtube.com/watch?v=uh5mh7eSi_4&feature=youtu.be
 " target="_blank"><img src="https://i9.ytimg.com/vi_webp/uh5mh7eSi_4/mqdefault.webp?v=61d3c67b&sqp=CMzVoZIG&rs=AOn4CLDDv6Xp79fCgFGf8hxEydD3Yi6CKg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="248" height="124" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=Fbh8Y2Z-_dg
 " target="_blank"><img src="https://i9.ytimg.com/vi_webp/Fbh8Y2Z-_dg/mqdefault.webp?sqp=CMzVoZIG&rs=AOn4CLDyIeL1o46wxWKsXp51qRByAVUrkw" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="248" height="124" border="10" /></a>
 <a href="https://studio.youtube.com/video/75sKAu7gVKc/edit
 " target="_blank"><img src="https://i9.ytimg.com/vi/75sKAu7gVKc/mqdefault.jpg?v=62034340&sqp=CMzVoZIG&rs=AOn4CLDdvx9PNVe5P2oP1G_uUA8qvfA9LA" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="248" height="124" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=uh5mh7eSi_4&feature=youtu.be
 " target="_blank"><img src="https://i9.ytimg.com/vi_webp/uh5mh7eSi_4/mqdefault.webp?v=61d3c67b&sqp=CMzVoZIG&rs=AOn4CLDDv6Xp79fCgFGf8hxEydD3Yi6CKg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="248" height="124" border="10" /></a>
 
 -  [ Instagram Clone ] - Interactive simple Instagram Clone Project. [ Instagram Clone Youtube Link + ]
 -  [ Machine learning : Tekken 7 ] - Similar Tekken 7 character output project via image drag and drop. [ Tekken 7 Youtube Link + ]
