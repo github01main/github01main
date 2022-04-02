@@ -30,7 +30,7 @@ alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
 -  [ ML Django Clone Project A.K.A Recommend System : issueFlix ]: - World Wide trended news from the 3d earth. [ issueFlix Link + ]
 -  [ ML NST Oil Painting : ML Oil Painting Generator ] - ML Oil paint by NST model. [ ML Oil Painting Generator Youtube Link + ]
 
-   [ Instagram Clone ]: <https://github.com/github01main/instaCloneTFT>
+   [ Instagram Clone ]: <https://github.com/be1le/instaCloneTFT>
    [ Machine learning : Tekken 7 ]: <https://github.com/be1le/Image_classification_SVC>
    [ ML Django Clone Project A.K.A Recommend System : issueFlix ]: <https://github.com/godchoi96/issueFlix>
    [ ML NST Oil Painting : ML Oil Painting Generator ]: <https://github.com/github01main/ML_Oil_Painting_Generator>
