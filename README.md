@@ -6,6 +6,10 @@ I'm shiwook jo from south korea, and i do content on Design an Development. I re
 
 Skills: Python / Django / JS / HTML5 / SCSS / Powershell / Webpack 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github01main)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shiwookcho/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shiwookcho/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/shiwookcho)  
+
+
+
 - 🔭 always your backup by your side.
 
 ```python
