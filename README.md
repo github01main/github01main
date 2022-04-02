@@ -18,7 +18,7 @@ alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=Fbh8Y2Z-_dg
 " target="_blank"><img src="https://i9.ytimg.com/vi_webp/Fbh8Y2Z-_dg/mqdefault.webp?sqp=CMzVoZIG&rs=AOn4CLDyIeL1o46wxWKsXp51qRByAVUrkw" 
 alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
-<a href="https://studio.youtube.com/video/75sKAu7gVKc/edit
+<a href="https://youtu.be/75sKAu7gVKc
 " target="_blank"><img src="https://i9.ytimg.com/vi/75sKAu7gVKc/mqdefault.jpg?v=62034340&sqp=CMzVoZIG&rs=AOn4CLDdvx9PNVe5P2oP1G_uUA8qvfA9LA" 
 alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=uh5mh7eSi_4&feature=youtu.be
