@@ -20,7 +20,7 @@ Skills:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github01main)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shiwook-cho-7281a1199/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shiwookcho/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCsnYIPC1TirIe8EToeWF0Fg)  
 
-## 2. [ Web dev project list ]
+## [ Web dev project list ]
 
 -  [ Instagram Clone ] - Interactive simple Instagram Clone Project. [ Instagram Clone Youtube Link + ]
 -  [ Machine learning : Tekken 7 ] - Similar Tekken 7 character output project via image drag and drop. [ Tekken 7 Youtube Link + ]
