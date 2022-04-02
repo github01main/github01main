@@ -21,8 +21,8 @@ alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
 <a href="https://youtu.be/75sKAu7gVKc
 " target="_blank"><img src="https://i9.ytimg.com/vi/75sKAu7gVKc/mqdefault.jpg?v=62034340&sqp=CMzVoZIG&rs=AOn4CLDdvx9PNVe5P2oP1G_uUA8qvfA9LA" 
 alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
-<a href="https://www.youtube.com/watch?v=uh5mh7eSi_4&feature=youtu.be
-" target="_blank"><img src="https://i9.ytimg.com/vi_webp/uh5mh7eSi_4/mqdefault.webp?v=61d3c67b&sqp=CMzVoZIG&rs=AOn4CLDDv6Xp79fCgFGf8hxEydD3Yi6CKg" 
+<a href="https://youtu.be/SO2X3Lsuw-8
+" target="_blank"><img src="https://i9.ytimg.com/vi_webp/SO2X3Lsuw-8/mqdefault.webp?sqp=CPjXoZIG&rs=AOn4CLAdvUrlVMl1gJO8k68XbTou7oa6Ig" 
 alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
 
 -  [ Instagram Clone ] - Interactive simple Instagram Clone Project. [ Instagram Clone Youtube Link + ]
