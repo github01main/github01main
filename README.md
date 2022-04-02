@@ -1,11 +1,3 @@
-- 🔭 always your backup by your side.
-
-```python
-{
-  print("Delightful");
-}
-```
-
 ![Indie Game Director and Design and Development](https://github.com/github01main/hive-mind-studio/blob/main/images/github01main_banner_black.png)
 # shiwook jo 
 #### Indie Game Director and Design and Development
