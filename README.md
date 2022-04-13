@@ -29,7 +29,8 @@ alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
 -  [ Machine learning : Tekken 7 ] - Similar Tekken 7 character output project via image drag and drop. [ Tekken 7 Youtube Link + ]
 -  [ ML Django Clone Project A.K.A Recommend System : issueFlix ]: - World Wide trended news from the 3d earth. [ issueFlix Link + ]
 -  [ ML NST Oil Painting : ML Oil Painting Generator ] - ML Oil paint by NST model. [ ML Oil Painting Generator Youtube Link + ]
--  [ Discord ERP Merlin Bot ] - ML Oil paint by NST model. [ Discord ERP Merlin Bot Link + ]]
+-  [ Discord ERP Merlin Bot ] - ML Oil paint by NST model. [ Discord ERP Merlin Bot Link + ]
+
    [ Instagram Clone ]: <https://github.com/be1le/instaCloneTFT>
    [ Machine learning : Tekken 7 ]: <https://github.com/be1le/Image_classification_SVC>
    [ ML Django Clone Project A.K.A Recommend System : issueFlix ]: <https://github.com/godchoi96/issueFlix>
