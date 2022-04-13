@@ -16,16 +16,16 @@ I'm shiwook jo from south korea, and i do content on Design an Development. I re
 " target="_blank"><img src="https://i9.ytimg.com/vi/uh5mh7eSi_4/mq1.jpg?sqp=CJjG25IG&rs=AOn4CLCWiWc1MkANK9q1zyiWmdlz0d308g" 
 alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=Fbh8Y2Z-_dg
-" target="_blank"><img src="https://i9.ytimg.com/vi_webp/Fbh8Y2Z-_dg/mqdefault.webp?sqp=CMzVoZIG&rs=AOn4CLDyIeL1o46wxWKsXp51qRByAVUrkw" 
+" target="_blank"><img src="https://i9.ytimg.com/vi/Fbh8Y2Z-_dg/mq2.jpg?sqp=CJjG25IG&rs=AOn4CLDeL7mG8RPDzTDdobw507Bibtncxw" 
 alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
 <a href="https://youtu.be/75sKAu7gVKc
-" target="_blank"><img src="https://i9.ytimg.com/vi/75sKAu7gVKc/mqdefault.jpg?v=62034340&sqp=CMzVoZIG&rs=AOn4CLDdvx9PNVe5P2oP1G_uUA8qvfA9LA" 
+" target="_blank"><img src="https://i9.ytimg.com/vi/75sKAu7gVKc/mq1.jpg?sqp=CJjG25IG&rs=AOn4CLDLk7T903wGWn7DY4uOctnXELRx8w" 
 alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
 <a href="https://youtu.be/SO2X3Lsuw-8
-" target="_blank"><img src="https://i9.ytimg.com/vi_webp/SO2X3Lsuw-8/mqdefault.webp?sqp=CPjXoZIG&rs=AOn4CLAdvUrlVMl1gJO8k68XbTou7oa6Ig" 
+" target="_blank"><img src="https://i9.ytimg.com/vi/SO2X3Lsuw-8/mq2.jpg?sqp=CJjG25IG&rs=AOn4CLDCKirs7Si_OgwbdRxlvX0ptDk-VA" 
 alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
-<a href="https://youtu.be/SO2X3Lsuw-8
-" target="_blank"><img src="https://i9.ytimg.com/vi_webp/SO2X3Lsuw-8/mqdefault.webp?sqp=CPjXoZIG&rs=AOn4CLAdvUrlVMl1gJO8k68XbTou7oa6Ig" 
+<a href="https://youtu.be/vVbSRfmq_n8
+" target="_blank"><img src="https://i9.ytimg.com/vi/vVbSRfmq_n8/mq1.jpg?sqp=CJjG25IG&rs=AOn4CLAP-lolyQSBTrbV5uOpv-ePTHmuSA" 
 alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
 
 -  [ Instagram Clone ] - Interactive simple Instagram Clone Project. [ Instagram Clone Youtube Link + ]
