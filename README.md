@@ -13,13 +13,16 @@ I'm shiwook jo from south korea, and i do content on Design an Development. I re
 ### WEB development project list
 
 <a href="https://www.youtube.com/watch?v=uh5mh7eSi_4&feature=youtu.be
-" target="_blank"><img src="https://i9.ytimg.com/vi_webp/uh5mh7eSi_4/mqdefault.webp?v=61d3c67b&sqp=CMzVoZIG&rs=AOn4CLDDv6Xp79fCgFGf8hxEydD3Yi6CKg" 
+" target="_blank"><img src="https://i9.ytimg.com/vi/uh5mh7eSi_4/mq1.jpg?sqp=CJjG25IG&rs=AOn4CLCWiWc1MkANK9q1zyiWmdlz0d308g" 
 alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
 <a href="https://www.youtube.com/watch?v=Fbh8Y2Z-_dg
 " target="_blank"><img src="https://i9.ytimg.com/vi_webp/Fbh8Y2Z-_dg/mqdefault.webp?sqp=CMzVoZIG&rs=AOn4CLDyIeL1o46wxWKsXp51qRByAVUrkw" 
 alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
 <a href="https://youtu.be/75sKAu7gVKc
 " target="_blank"><img src="https://i9.ytimg.com/vi/75sKAu7gVKc/mqdefault.jpg?v=62034340&sqp=CMzVoZIG&rs=AOn4CLDdvx9PNVe5P2oP1G_uUA8qvfA9LA" 
+alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
+<a href="https://youtu.be/SO2X3Lsuw-8
+" target="_blank"><img src="https://i9.ytimg.com/vi_webp/SO2X3Lsuw-8/mqdefault.webp?sqp=CPjXoZIG&rs=AOn4CLAdvUrlVMl1gJO8k68XbTou7oa6Ig" 
 alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
 <a href="https://youtu.be/SO2X3Lsuw-8
 " target="_blank"><img src="https://i9.ytimg.com/vi_webp/SO2X3Lsuw-8/mqdefault.webp?sqp=CPjXoZIG&rs=AOn4CLAdvUrlVMl1gJO8k68XbTou7oa6Ig" 
