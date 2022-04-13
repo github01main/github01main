@@ -30,7 +30,7 @@ alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
 
 -  [ Instagram Clone ] - Interactive simple Instagram Clone Project. [ Instagram Clone Youtube Link + ]
 -  [ Machine learning : Tekken 7 ] - Similar Tekken 7 character output project via image drag and drop. [ Tekken 7 Youtube Link + ]
--  [ ML Django Clone Project A.K.A Recommend System : issueFlix ]: - World Wide trended news from the 3d earth. [ issueFlix Youtube Link + ]
+-  [ ML Django Clone Project A.K.A Recommend System : issueFlix ]: - World Wide trend news from the 3d earth. [ issueFlix Youtube Link + ]
 -  [ ML NST Oil Painting : ML Oil Painting Generator ] - ML Oil paint by NST model. [ ML Oil Painting Generator Youtube Link + ]
 -  [ Discord ERP Merlin Bot ] - ML Oil paint by NST model. [ Discord ERP Merlin Bot Youtube Link + ]
 
