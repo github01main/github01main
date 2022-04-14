@@ -1,5 +1,5 @@
 ![Indie Game Director and Design and Development](https://github.com/github01main/hive-mind-studio/blob/main/images/github01main_banner_black.png)
-# shiwook jo 
+# SHIWOOK JO
 #### Indie Game Director and Design and Development
 I'm shiwook jo from south korea, and i do content on Design an Development. I really enjoy learning languages and New software Development frameworks like Django and Javascript, as well as work in Hive-mind studio. The planning and design of the project was mainly done. And I used to blender as a sub-skill. and developed an indie game with the blueprint of Unreal Engine based on C++ for 5 years. People ask me. Why do you always find difficult things, solve them, and show them?. as i say that's my milestone.
 
