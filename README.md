@@ -12,22 +12,6 @@ I'm shiwook jo from south korea, and i do content on Design an Development. I re
 
 ### WEB development project list
 
-<a href="https://www.youtube.com/watch?v=uh5mh7eSi_4&feature=youtu.be
-" target="_blank"><img src="https://i9.ytimg.com/vi/uh5mh7eSi_4/mq1.jpg?sqp=CJjG25IG&rs=AOn4CLCWiWc1MkANK9q1zyiWmdlz0d308g" 
-alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
-<a href="https://www.youtube.com/watch?v=Fbh8Y2Z-_dg
-" target="_blank"><img src="https://i9.ytimg.com/vi/Fbh8Y2Z-_dg/mq2.jpg?sqp=CJjG25IG&rs=AOn4CLDeL7mG8RPDzTDdobw507Bibtncxw" 
-alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
-<a href="https://youtu.be/75sKAu7gVKc
-" target="_blank"><img src="https://i9.ytimg.com/vi/75sKAu7gVKc/mq1.jpg?sqp=CJjG25IG&rs=AOn4CLDLk7T903wGWn7DY4uOctnXELRx8w" 
-alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
-<a href="https://youtu.be/SO2X3Lsuw-8
-" target="_blank"><img src="https://i9.ytimg.com/vi/SO2X3Lsuw-8/mq2.jpg?sqp=CJjG25IG&rs=AOn4CLDCKirs7Si_OgwbdRxlvX0ptDk-VA" 
-alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
-<a href="https://youtu.be/vVbSRfmq_n8
-" target="_blank"><img src="https://i9.ytimg.com/vi/vVbSRfmq_n8/mq1.jpg?sqp=CJjG25IG&rs=AOn4CLAP-lolyQSBTrbV5uOpv-ePTHmuSA" 
-alt="IMAGE ALT TEXT HERE" width="248" height="140" border="10" /></a>
-
 -  [ Instagram Clone ] - Interactive simple Instagram Clone Project. [ Instagram Clone Youtube Link + ]
 -  [ Machine learning : Tekken 7 ] - Similar Tekken 7 character output project via image drag and drop. [ Tekken 7 Youtube Link + ]
 -  [ ML Django Clone Project A.K.A Recommend System : issueFlix ]: - World Wide trend news from the 3d earth. [ issueFlix Youtube Link + ]
